@@ -1,5 +1,7 @@
 for running website =>{
-  go to backend directory and writw npm i same with frontend
+
+  go to backend directory and writw npm install 
+  same with frontend
 
   then first run backend using npm start
   
